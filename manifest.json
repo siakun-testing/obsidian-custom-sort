@@ -1,10 +1,10 @@
 {
 	"id": "custom-sort",
 	"name": "Custom File Explorer sorting",
-	"version": "3.1.6",
+	"version": "3.1.7",
 	"minAppVersion": "1.7.2",
-	"description": "Allows for manual and automatic, config-driven reordering and sorting of files and folders in File Explorer",
-	"author": "SebastianMC",
-	"authorUrl": "https://github.com/SebastianMC",
+	"description": "Allows for manual and automatic, config-driven reordering and sorting of files and folders in File Explorer. Fork adds vsc-unicode-natural sort order (VS Code / Windows Explorer style, Intl.Collator en locale with numeric).",
+	"author": "SebastianMC (fork: siakun-testing)",
+	"authorUrl": "https://github.com/siakun-testing/obsidian-custom-sort",
 	"isDesktopOnly": false
 }
